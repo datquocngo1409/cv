@@ -1,0 +1,52 @@
+header {
+  position: relative;
+}
+.logo{
+  position: absolute;
+  bottom: 20px;
+  font-variant: small-caps;
+}
+.logo>h1{
+  font-family: Impact;
+  font-size: 50px;
+  color: white;
+  letter-spacing: 0.3px;
+  text-shadow: 0 0 2px black;
+  padding-bottom: 0px;
+  border-bottom: 1px dotted gray;
+  margin: 0px;
+}
+.logo>h5{
+  margin-top: 5px;
+  letter-spacing: 0.5px;
+}
+
+.table-bor{
+  padding: 20px;
+  border-left: 1px black solid;
+}
+
+.table-bor td
+{
+  padding: 10px 60px;
+}
+.name{
+  height: 236px;
+}
+
+.name>h1{
+  font-family: "Bitstream Vera Sans";
+  font-size: 40px;
+  color: darkolivegreen;
+  letter-spacing: 0.3px;
+  text-shadow: 0 0 2px black;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+.name>h3{
+  font-family: Chandas;
+  color: #888888;
+  margin-top: 5px;
+  letter-spacing: 0.5px;
+}
